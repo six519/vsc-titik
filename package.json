@@ -1,0 +1,26 @@
+{
+    "name": "titik",
+    "displayName": "Titik",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "ferdinandsilva",
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "titik",
+            "aliases": ["Titik", "titik"],
+            "extensions": [".ttk"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "titik",
+            "scopeName": "titik.ttk",
+            "path": "./syntaxes/titik.tmLanguage.json"
+        }]
+    }
+}
