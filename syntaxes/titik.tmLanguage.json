@@ -19,7 +19,7 @@
 		"keywords": {
 			"patterns": [{
 				"name": "keyword.control.titik",
-				"match": "\\b(fd|df|fl|lf|if|fi|ef|e|to|b)\\b"
+				"match": "\\b(fd|df|fl|lf|if|fi|ef|e|to|b|rtn)\\b"
 			}]
 		},
 		"strings": {
