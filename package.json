@@ -2,7 +2,7 @@
     "name": "titik",
     "displayName": "Titik Syntax Highlighting",
     "description": "Titik PL/Interpreter Syntax Highlighting (Colorizer) For Visual Studio Code",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "publisher": "ferdinandsilva",
     "engines": {
         "vscode": "^1.14.0"
